@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ShoppinglistsystemApplication<shoppinglistsystem>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.habibu.abdullahi.shoppinglistsystem.ShoppinglistsystemApplication",
+            "projectName": "shoppinglistsystem",
+            "args": ""
+        }
+    ]
+}
