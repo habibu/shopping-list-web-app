@@ -3,6 +3,7 @@ A stable version of shopping list web app developed using Spring boot and Angula
 
 
 HOW TO TEST THE APP?
+
 i. After configuring your Spring Boot and AngularJS developement enviroment.
 
 ii. Not recommended for the learner:
